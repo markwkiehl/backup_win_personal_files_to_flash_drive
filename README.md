@@ -1,8 +1,8 @@
-# How to backup your Windows PC personal files to a flash drive
+# Batch File To Backup Your Windows PC Personal Files
 
 Use this batch file to backup your essential personal files on your Windows PC to an external flash drive.
 
 See the full article behind this:
-[A free and simple approach to backup of your Windows PC](https://medium.com/@markwkiehl/a-free-and-simple-approach-to-backup-of-your-windows-pc-a45f8320ae9d)
+[Batch File To Backup Your Windows PC Personal Files](https://medium.com/@markwkiehl/batch-file-to-backup-your-windows-pc-personal-files-a45f8320ae9d)
 
 
